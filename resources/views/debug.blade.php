@@ -1,2 +1,2 @@
 <?php
-    echo "<pre>"; print_r('DEbug'); echo "<pre>"; sd
+    echo "<pre>"; print_r('DEbug'); echo "<pre>";
